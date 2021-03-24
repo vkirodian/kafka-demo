@@ -1,4 +1,4 @@
-# microservices-admin-server-demo
+# Kafka with Spring Boot Demo
 
 This is a simple Spring Boot Kafka Demo.
 
